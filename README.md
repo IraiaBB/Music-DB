@@ -2,7 +2,8 @@
 
 ## Introduction
 
-In this repository is located the database used for the project Video Player, also in my GitHub.   
+In this repository is located the database used for the [project Video Player](https://github.com/IraiaBB/VideoPlayer),
+also in my GitHub.   
 The database management system required is MySql Workbench, which is easy to connect with Python.   
 This folder contains 3 files (aside from this): the structure script, a sample data script and 
 a .png image of the DB's diagram. The last one it's a representation of the structure, explained
@@ -28,7 +29,7 @@ some foreign keys have default values.
 
 ## Data script
 
-This script it's not essential. You can run only the structure script and load it with your
+This script is not essential. You can run only the structure script and load it with your
 personal data. This is just a sample for saving time. It has a mix of international and spanish
 songs from well know artist, so it's easy to detect what represents the information. I have tried
 to choose diverse data, as different countries, styles or ages, so the DB's relations are richer.
